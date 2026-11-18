@@ -1,0 +1,21 @@
+{
+  "id": "/",
+  "name": "Metaloespo - Registo de Horas",
+  "short_name": "Metaloespo",
+  "description": "Aplicação móvel para registar as horas trabalhadas dos colaboradores por obra e por dia.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "categories": ["business", "productivity"],
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
